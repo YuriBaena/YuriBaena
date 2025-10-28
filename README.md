@@ -14,12 +14,12 @@
   <img 
     alt="GitHub Stats" 
     height="170" 
-    src="https://github-readme-stats.vercel.app/api?username=YuriBaena&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=YuriBaena&show_icons=true&theme=dark&include_all_commits=true&hide_border=true&locale=pt-br" 
   />
   <img 
     alt="Top Langs" 
     height="170" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriBaena&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriBaena&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true" 
   />
 </p>
 
